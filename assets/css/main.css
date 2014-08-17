@@ -348,6 +348,7 @@ table.plain tbody > tr:nth-child(odd) > th {
 a {
   color: #4a4a4a;
   transition: color ease 0.3s;
+  text-decoration:none;
 }
 a:hover {
   color: #E77A27;
@@ -373,6 +374,7 @@ a:hover {
 }
 .sidebar .description {
   margin-bottom: 10px;
+  text-decoration: none;
 }
 .sidebar .footer {
   position: relative;
@@ -383,7 +385,7 @@ a:hover {
   color: white;
 }
 .sidebar a:hover {
-  color: #E77A27;
+  color: #3498db;
 }
 .sidebar .logo {
   display: block;
